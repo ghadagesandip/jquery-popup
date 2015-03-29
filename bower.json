@@ -1,0 +1,22 @@
+{
+  "name": "jquery-popup",
+  "version": "1.0.0",
+  "authors": [
+    "sandip ghadage <ghadagesandip@gmail.com>"
+  ],
+  "description": "its a jquery popup",
+  "keywords": [
+    "jquery-popup",
+    "box",
+    "sandip",
+    "ghadge"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

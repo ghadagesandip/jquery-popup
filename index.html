@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Custom Popup</title>
+        <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+        <script type="text/javascript" src="js/popup.js"></script>
+        <link rel="stylesheet" href="css/popup.css"/>
+    </head>
+
+    <body>
+        <div>
+            click <a class="custom-popup" href="popup-page.html">here</a> to open popup
+        </div>
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $(".custom-popup").centerPopup();
+            });
+        </script>
+
+    </body>
+
+
+
+</html>
